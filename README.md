@@ -5,7 +5,10 @@ This project recreates EXDEFS and other proprietary resources from the Heretic+H
 ## Running
 Instructions on how to run. First you will need a GZDoom client installed. You also need a copy of the Heretic + Hexen remaster.
 
-Have the file locations of GZDoom, Heretic + Hexen, and the place you extrated this mod ready.
+Make not of the file locations for:
+ - GZDoom
+ - Heretic + Hexen
+ - The directory you extracted this mod
 
 ### Hexen - Vestiges of Grandeur
 1. To run, download the pk3.
