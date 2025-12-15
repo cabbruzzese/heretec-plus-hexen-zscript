@@ -5,7 +5,7 @@ This project recreates EXDEFS and other proprietary resources from the Heretic+H
 ## Running
 Instructions on how to run. First you will need a GZDoom client installed. You also need a copy of the Heretic + Hexen remaster.
 
-Make not of the file locations for:
+Make note of the file locations for:
  - GZDoom
  - Heretic + Hexen
  - The directory you extracted this mod
