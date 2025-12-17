@@ -1,5 +1,5 @@
-.bak
-.backup1
-.backup2
-.backup3
-.autosave
+*.bak
+*.backup1
+*.backup2
+*.backup3
+*.autosave
