@@ -19,10 +19,14 @@ Make note of the file locations for:
 
 This project is starting with VOG support for Hexen, and is about 5% complete for running through the expansion completely.
 
-[🚧] - Vestiges of Grandeur support
-[ ] - Deathkings EX support
-[ ] - Hexen EX support
-[ ] - Faith Renewed Support
-[ ] - Heretic Ex support
+- [✅] - Vestiges of Grandeur support
+- [ ] - Deathkings EX support
+- [ ] - Hexen EX support
+- [ ] - Faith Renewed Support
+- [ ] - Heretic Ex support
+- [ ] - Modified Heretic Monsters support
+- [ ] - Modified Hexen Monsters support
+- [ ] - Modified Heretic Weapons support
+- [ ] - Modified Hexen Weapons support
 
 Once complete, you can load GZDoom compatible mods (Zscript, Decorate, ACS, all map formats) side by side. Currently testing mod support with XRPG and HRPG. Once complete, I plan on additional mod testing.
